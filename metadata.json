@@ -1,0 +1,6 @@
+{
+  "name": "PickWise",
+  "description": "AI-powered global shopping research and decision assistant for smarter choices and better purchases.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
